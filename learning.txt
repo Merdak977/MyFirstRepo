@@ -1,2 +1,0 @@
-What I have learned from this course
-this is a tutorial for git and github
